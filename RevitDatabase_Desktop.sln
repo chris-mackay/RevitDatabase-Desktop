@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitDatabase_Desktop", "RevitDatabase_Desktop\RevitDatabase_Desktop.csproj", "{AEB026DF-C4BD-4190-87C0-E5A484858F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB026DF-C4BD-4190-87C0-E5A484858F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB026DF-C4BD-4190-87C0-E5A484858F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB026DF-C4BD-4190-87C0-E5A484858F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB026DF-C4BD-4190-87C0-E5A484858F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E6EAAB6-3044-4B07-BA41-8701ACE861E0}
+	EndGlobalSection
+EndGlobal
